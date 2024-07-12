@@ -4,7 +4,7 @@ with open("README.md", "r", encoding = "utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name = "current_temp_api",
+    name = "python_api_current_temperature",
     version = "0.0.1",
     author = "AmirHossein Amirzadeh",
     author_email = "Amirzadeh@live.com",
